@@ -1,0 +1,4 @@
+Maszyna 1: Przygotowanie materiałow reklamowych 7
+Maszyna 2: Przygotowanie prezentacji 5, Napisanie dokumentacji  2
+Maszyna 3: Przygotowanie raportu 4, Przeprowadzenie analizy 3
+
